@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T23:08:29+00:00",
+  "generatedAt": "2026-07-03T23:07:48+00:00",
   "source": "Yahoo Finance chart API",
   "indicator": {
     "kd": "Slow stochastic: 9-day RSV, 3-day K SMA, 3-day D SMA",
@@ -1274,13 +1274,13 @@
           "high": 1064.64,
           "low": 950.28,
           "close": 975.56,
-          "volume": 60943570,
+          "volume": 61844400,
           "k": 28.5795,
           "d": 43.9314,
           "kChange": -16.7092,
           "dChange": -12.4606,
-          "volumeMA5": 60304734.0,
-          "volumeChangePct": 1.0593
+          "volumeMA5": 60484900.0,
+          "volumeChangePct": 2.2477
         }
       ]
     },
@@ -2539,16 +2539,16 @@
         {
           "date": "2026-07-02",
           "open": 359.48,
-          "high": 364.205,
+          "high": 364.21,
           "low": 353.42,
           "close": 359.91,
-          "volume": 25430462,
-          "k": 76.9355,
-          "d": 61.8705,
-          "kChange": 12.0562,
-          "dChange": 16.0345,
-          "volumeMA5": 47264852.4,
-          "volumeChangePct": -46.1958
+          "volume": 25999300,
+          "k": 76.9312,
+          "d": 61.8691,
+          "kChange": 12.0519,
+          "dChange": 16.033,
+          "volumeMA5": 47378620.0,
+          "volumeChangePct": -45.1244
         }
       ]
     },
@@ -3806,17 +3806,17 @@
         },
         {
           "date": "2026-07-02",
-          "open": 197.15,
-          "high": 200.055,
+          "open": 197.14,
+          "high": 200.06,
           "low": 192.35,
           "close": 194.83,
-          "volume": 129935067,
+          "volume": 142385500,
           "k": 31.8313,
           "d": 29.0256,
           "kChange": -0.1929,
           "dChange": 5.7616,
-          "volumeMA5": 154139833.4,
-          "volumeChangePct": -15.7031
+          "volumeMA5": 156629920.0,
+          "volumeChangePct": -9.0943
         }
       ]
     },
@@ -5074,17 +5074,17 @@
         },
         {
           "date": "2026-07-02",
-          "open": 538.22,
+          "open": 538.16,
           "high": 547.65,
           "low": 506.0,
           "close": 517.82,
-          "volume": 27272794,
+          "volume": 28228900,
           "k": 57.2686,
           "d": 64.0144,
           "kChange": -13.3725,
           "dChange": 2.136,
-          "volumeMA5": 33892838.8,
-          "volumeChangePct": -19.5323
+          "volumeMA5": 34084060.0,
+          "volumeChangePct": -17.1786
         }
       ]
     },
@@ -6346,13 +6346,13 @@
           "high": 461.47,
           "low": 429.5,
           "close": 434.16,
-          "volume": 18189463,
+          "volume": 18424800,
           "k": 54.8348,
           "d": 61.0137,
           "kChange": -12.4382,
           "dChange": 5.4968,
-          "volumeMA5": 16930812.6,
-          "volumeChangePct": 7.4341
+          "volumeMA5": 16977880.0,
+          "volumeChangePct": 8.5224
         }
       ]
     }
