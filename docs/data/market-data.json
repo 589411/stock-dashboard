@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T22:47:32+00:00",
+  "generatedAt": "2026-09-22T22:47:30+00:00",
   "source": "Yahoo Finance chart API",
   "indicator": {
     "kd": "Slow stochastic: 9-day RSV, 3-day K SMA, 3-day D SMA",
@@ -22,20 +22,6 @@
       "currency": "USD",
       "exchange": "NasdaqGS",
       "rows": [
-        {
-          "date": "2026-05-13",
-          "open": 813.16,
-          "high": 814.95,
-          "low": 779.47,
-          "close": 803.63,
-          "volume": 54875100,
-          "k": 90.4202,
-          "d": 91.2215,
-          "kChange": -1.5738,
-          "dChange": -1.0302,
-          "volumeMA5": 62449880.0,
-          "volumeChangePct": -12.1294
-        },
         {
           "date": "2026-05-14",
           "open": 787.62,
@@ -1260,27 +1246,41 @@
           "high": 1016.44,
           "low": 977.83,
           "close": 1015.8,
-          "volume": 35656400,
+          "volume": 35803500,
           "k": 50.5603,
           "d": 32.2906,
           "kChange": 21.03,
           "dChange": 8.0916,
-          "volumeMA5": 25107520.0,
-          "volumeChangePct": 42.0148
+          "volumeMA5": 25136940.0,
+          "volumeChangePct": 42.4338
         },
         {
           "date": "2026-09-21",
-          "open": 1044.75,
+          "open": 1044.99,
           "high": 1064.49,
           "low": 1030.6801,
           "close": 1043.96,
-          "volume": 27268696,
+          "volume": 28174400,
           "k": 73.956,
           "d": 51.3489,
           "kChange": 23.3956,
           "dChange": 19.0583,
-          "volumeMA5": 25132879.2,
-          "volumeChangePct": 8.4981
+          "volumeMA5": 25343440.0,
+          "volumeChangePct": 11.1704
+        },
+        {
+          "date": "2026-09-22",
+          "open": 1033.28,
+          "high": 1097.25,
+          "low": 1030.015,
+          "close": 1096.16,
+          "volume": 28773640,
+          "k": 89.2438,
+          "d": 71.2534,
+          "kChange": 15.2878,
+          "dChange": 19.9045,
+          "volumeMA5": 27011228.0,
+          "volumeChangePct": 6.5247
         }
       ]
     },
@@ -1290,20 +1290,6 @@
       "currency": "USD",
       "exchange": "NasdaqGS",
       "rows": [
-        {
-          "date": "2026-05-13",
-          "open": 385.6,
-          "high": 403.7,
-          "low": 385.0,
-          "close": 402.62,
-          "volume": 28144600,
-          "k": 77.3362,
-          "d": 81.9388,
-          "kChange": -0.7683,
-          "dChange": -6.6032,
-          "volumeMA5": 26162220.0,
-          "volumeChangePct": 7.5773
-        },
         {
           "date": "2026-05-14",
           "open": 397.28,
@@ -2528,27 +2514,41 @@
           "high": 359.44,
           "low": 348.45,
           "close": 349.54,
-          "volume": 47526100,
+          "volume": 47631800,
           "k": 75.1259,
           "d": 78.1568,
           "kChange": -2.9977,
           "dChange": -1.5064,
-          "volumeMA5": 28705480.0,
-          "volumeChangePct": 65.5646
+          "volumeMA5": 28726620.0,
+          "volumeChangePct": 65.8107
         },
         {
           "date": "2026-09-21",
-          "open": 350.67,
-          "high": 357.58,
+          "open": 350.64,
+          "high": 357.61,
           "low": 349.1,
           "close": 354.97,
-          "volume": 28211544,
+          "volume": 30455400,
           "k": 81.0105,
           "d": 78.0866,
           "kChange": 5.8846,
           "dChange": -0.0701,
-          "volumeMA5": 27166708.8,
-          "volumeChangePct": 3.846
+          "volumeMA5": 27636620.0,
+          "volumeChangePct": 10.1994
+        },
+        {
+          "date": "2026-09-22",
+          "open": 357.905,
+          "high": 364.17,
+          "low": 350.22,
+          "close": 351.16,
+          "volume": 29504115,
+          "k": 72.9855,
+          "d": 76.3739,
+          "kChange": -8.025,
+          "dChange": -1.7127,
+          "volumeMA5": 29151723.0,
+          "volumeChangePct": 1.2088
         }
       ]
     },
@@ -2558,20 +2558,6 @@
       "currency": "USD",
       "exchange": "NasdaqGS",
       "rows": [
-        {
-          "date": "2026-05-13",
-          "open": 224.93,
-          "high": 227.84,
-          "low": 221.57,
-          "close": 225.83,
-          "volume": 150405400,
-          "k": 91.1041,
-          "d": 88.4046,
-          "kChange": 1.7342,
-          "dChange": 5.4954,
-          "volumeMA5": 154999420.0,
-          "volumeChangePct": -2.9639
-        },
         {
           "date": "2026-05-14",
           "open": 229.85,
@@ -3796,27 +3782,41 @@
           "high": 222.73,
           "low": 218.03,
           "close": 222.27,
-          "volume": 189683500,
+          "volume": 190287400,
           "k": 37.7923,
           "d": 25.012,
           "kChange": 13.7634,
           "dChange": 8.5276,
-          "volumeMA5": 120153060.0,
-          "volumeChangePct": 57.8682
+          "volumeMA5": 120273840.0,
+          "volumeChangePct": 58.2118
         },
         {
           "date": "2026-09-21",
-          "open": 222.935,
+          "open": 222.94,
           "high": 228.5,
           "low": 221.56,
           "close": 227.38,
-          "volume": 109274173,
+          "volume": 109806100,
           "k": 62.8042,
           "d": 41.5418,
           "kChange": 25.0119,
           "dChange": 16.5299,
-          "volumeMA5": 115554454.6,
-          "volumeChangePct": -5.4349
+          "volumeMA5": 115781620.0,
+          "volumeChangePct": -5.161
+        },
+        {
+          "date": "2026-09-22",
+          "open": 226.91,
+          "high": 229.98,
+          "low": 226.5,
+          "close": 228.87,
+          "volume": 93296546,
+          "k": 80.9459,
+          "d": 60.5141,
+          "kChange": 18.1416,
+          "dChange": 18.9723,
+          "volumeMA5": 116828989.2,
+          "volumeChangePct": -20.1426
         }
       ]
     },
@@ -3826,20 +3826,6 @@
       "currency": "USD",
       "exchange": "NasdaqGS",
       "rows": [
-        {
-          "date": "2026-05-13",
-          "open": 457.04,
-          "high": 459.5,
-          "low": 432.65,
-          "close": 445.5,
-          "volume": 30423400,
-          "k": 86.5233,
-          "d": 90.0572,
-          "kChange": -5.8072,
-          "dChange": -1.5203,
-          "volumeMA5": 43733860.0,
-          "volumeChangePct": -30.4351
-        },
         {
           "date": "2026-05-14",
           "open": 440.6,
@@ -5064,27 +5050,41 @@
           "high": 559.91,
           "low": 541.53,
           "close": 559.82,
-          "volume": 31785700,
+          "volume": 31867300,
           "k": 92.0361,
           "d": 82.6983,
           "kChange": 8.6887,
           "dChange": 5.9249,
-          "volumeMA5": 24902440.0,
-          "volumeChangePct": 27.6409
+          "volumeMA5": 24918760.0,
+          "volumeChangePct": 27.8848
         },
         {
           "date": "2026-09-21",
-          "open": 583.94,
-          "high": 616.68,
+          "open": 583.88,
+          "high": 616.69,
           "low": 582.27,
           "close": 615.52,
-          "volume": 44156939,
-          "k": 97.4201,
-          "d": 90.9345,
-          "kChange": 5.384,
-          "dChange": 8.2362,
-          "volumeMA5": 28771807.8,
-          "volumeChangePct": 53.4729
+          "volume": 44494300,
+          "k": 97.4177,
+          "d": 90.9337,
+          "kChange": 5.3816,
+          "dChange": 8.2354,
+          "volumeMA5": 28855600.0,
+          "volumeChangePct": 54.1964
+        },
+        {
+          "date": "2026-09-22",
+          "open": 607.1,
+          "high": 624.52,
+          "low": 606.3125,
+          "close": 623.77,
+          "volume": 28045099,
+          "k": 99.5029,
+          "d": 96.3189,
+          "kChange": 2.0852,
+          "dChange": 5.3852,
+          "volumeMA5": 31037819.8,
+          "volumeChangePct": -9.6422
         }
       ]
     },
@@ -5094,20 +5094,6 @@
       "currency": "USD",
       "exchange": "NYSE",
       "rows": [
-        {
-          "date": "2026-05-13",
-          "open": 398.27,
-          "high": 404.68,
-          "low": 391.47,
-          "close": 399.8,
-          "volume": 13127800,
-          "k": 43.0111,
-          "d": 56.5435,
-          "kChange": -12.0176,
-          "dChange": -14.4726,
-          "volumeMA5": 15572800.0,
-          "volumeChangePct": -15.7005
-        },
         {
           "date": "2026-05-14",
           "open": 403.21,
@@ -6332,27 +6318,41 @@
           "high": 434.82,
           "low": 428.98,
           "close": 434.67,
-          "volume": 12884300,
+          "volume": 12905100,
           "k": 50.878,
           "d": 35.9092,
           "kChange": 17.8105,
           "dChange": 4.3036,
-          "volumeMA5": 11916280.0,
-          "volumeChangePct": 8.1235
+          "volumeMA5": 11920440.0,
+          "volumeChangePct": 8.2603
         },
         {
           "date": "2026-09-21",
           "open": 440.8,
           "high": 445.72,
-          "low": 437.07,
+          "low": 437.06,
           "close": 445.14,
-          "volume": 9903605,
+          "volume": 9943100,
           "k": 74.58,
           "d": 52.8418,
           "kChange": 23.702,
           "dChange": 16.9326,
-          "volumeMA5": 11035821.0,
-          "volumeChangePct": -10.2595
+          "volumeMA5": 11047880.0,
+          "volumeChangePct": -9.9999
+        },
+        {
+          "date": "2026-09-22",
+          "open": 441.22,
+          "high": 452.88,
+          "low": 441.2,
+          "close": 452.0,
+          "volume": 11225312,
+          "k": 88.5869,
+          "d": 71.3483,
+          "kChange": 14.007,
+          "dChange": 18.5065,
+          "volumeMA5": 11402422.4,
+          "volumeChangePct": -1.5533
         }
       ]
     }
